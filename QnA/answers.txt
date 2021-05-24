@@ -1,0 +1,16 @@
+1,1,20 iunie,Alex,22
+2,4,Percy Jackson and the Lightning Thief,Charlena,0
+3,5,emag,Alex,12
+4,6,must-do: Louvre si plimbare pe Champs-Elysees,Winnona,50
+5,4,Magic in the moonlight,Delia,30
+6,4,Heidi,Momo,54
+7,7,roughly 3500$,Alex,28
+8,7,~4000$/couple,Yolanda,60
+9,3,Cauta pe net,Winnona,0
+10,9,20 iulie,Charlena,0
+11,12,Zuko,Charlena,0
+12,14,Airbender,Yolanda,0
+13,3,Intreaba-l pe Jamie Oliver,Yolanda,0
+13,3,Intreaba-l pe Jamie Oliver,Yolanda,0
+15,14,Lavabender,Momo,0
+16,13,Katara,Momo,0
